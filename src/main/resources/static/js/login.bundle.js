@@ -476,7 +476,7 @@ var LoginForm = function (_React$Component) {
                         _react2.default.createElement(
                             'button',
                             { onClick: this.handleLogin, type: 'button', className: 'login-btn' },
-                            '로그인'
+                            'LOGIN'
                         )
                     ),
                     _react2.default.createElement(
